@@ -8,8 +8,6 @@
 #define RK_TIMER_H_
 
 /************ INCLUDES ********************************************************/
-#include <stdint.h>
-#include <stdbool.h>
 
 #ifdef STM32G031xx
 #include "stm32g0xx_hal.h"

@@ -10,13 +10,13 @@
 #define _COMM_PROCESSING_H
 
 /************ INCLUDES ********************************************************/
-#include <rk_mt6701.h>
 #include <stdint.h>
 #include <stdbool.h>
 #include "main.h"
 #include "switches.h"
 #include "enc.h"
 #include "rk_uart.h"
+#include "rk_mt6701.h"
 
 /************ LOCAL DEFINES ***************************************************/
 

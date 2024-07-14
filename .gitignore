@@ -1,5 +1,4 @@
 Debug
-.settings
 doc
-doxygen
-/*.launch
+.settings
+.launch

@@ -7,8 +7,6 @@
 #define RK_LED_H_
 
 /************ INCLUDES ********************************************************/
-#include <stdint.h>
-#include <stdbool.h>
 
 #ifdef STM32G031xx
     #include "stm32g031xx.h"

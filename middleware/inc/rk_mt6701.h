@@ -11,8 +11,6 @@
 #define _RK_MT_H
 
 /************ INCLUDES ********************************************************/
-#include <stdint.h>
-#include <stdbool.h>
 
 // Include the appropriate STM32 header based on the defined MCU type
 #ifdef STM32G031xx
